@@ -1,5 +1,5 @@
 # whatsapp-spam-chrome-extension (WSCE)
-AThis browser extension is designed to automate the process of resending messages on WhatsApp, enhancing user efficiency and productivity. It allows users to schedule and repeat the sending of specific messages at predetermined intervals, ensuring timely communication without the need for manual intervention. Ideal for reminders, follow-ups, or periodic updates, this tool simplifies repetitive messaging tasks, making it a valuable asset for personal and professional WhatsApp users seeking to optimize their messaging workflows.
+This browser extension is designed to automate the process of resending messages on WhatsApp, enhancing user efficiency and productivity. It allows users to schedule and repeat the sending of specific messages at predetermined intervals, ensuring timely communication without the need for manual intervention. Ideal for reminders, follow-ups, or periodic updates, this tool simplifies repetitive messaging tasks, making it a valuable asset for personal and professional WhatsApp users seeking to optimize their messaging workflows.
 
 
 
