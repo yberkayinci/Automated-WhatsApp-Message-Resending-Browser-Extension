@@ -1,9 +1,9 @@
 # whatsapp-spam-chrome-extension (WSCE)
-A simple Chrome extension to spam your friends or group with repetitive messages.
+AThis browser extension is designed to automate the process of resending messages on WhatsApp, enhancing user efficiency and productivity. It allows users to schedule and repeat the sending of specific messages at predetermined intervals, ensuring timely communication without the need for manual intervention. Ideal for reminders, follow-ups, or periodic updates, this tool simplifies repetitive messaging tasks, making it a valuable asset for personal and professional WhatsApp users seeking to optimize their messaging workflows.
 
 
 
-This is the first Version of the extension for Whatsapp. In this Version you can type a message and spam it to the selected chat (could be a contact or a group) how often you want. The cool thing about this extension is that the UI is binded to the Whatsapp Web UI.
+
 
 ## :warning: NOTE :warning:
 This application is for private or educational purposes only. Do not use it on other people without their permission. I do not accept responsibility for banned accounts or penalties of any kind caused by the use of this bot. I would like to point out that using a bot violates the Terms and Conditions of Whatsapp. By using the bot, you automatically accept that you yourself are criminally responsible for yourself and you are aware that it violates the guidelines.
